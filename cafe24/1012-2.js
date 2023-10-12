@@ -1,7 +1,7 @@
 (async function (CAFE24API) {
 
   var link = document.createElement( "link" );
-	link.href = 'https://cdn.jsdelivr.net/gh/webkers/podiz-estimate-cdn@main/tset1012/index.css';
+	link.href = 'https://cdn.jsdelivr.net/gh/webkers/podiz-estimate-cdn@main/test1012/index.css';
 	link.type = "text/css";
 	link.rel = "stylesheet";
 	link.media = "screen,print";
@@ -12,7 +12,7 @@
 	script.onload = function () {
 			console.log('podiz script start! // podiz.co.kr')
 	};
-	script.src = 'https://cdn.jsdelivr.net/gh/webkers/podiz-estimate-cdn@main/tset1012/index.js';
+	script.src = 'https://cdn.jsdelivr.net/gh/webkers/podiz-estimate-cdn@main/test1012/index.js';
 	
 	document.head.appendChild(script);
   console.log({CAFE24API})
