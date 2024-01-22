@@ -1,5 +1,5 @@
 (async function (CAFE24API) {
-    if (document.getElementById("podiz-app")) {
+    if (document.getElementById("podiz-estimate")) {
       var link = document.createElement("link");
       link.href =
         "http://localhost:4173/assets/index.css";
