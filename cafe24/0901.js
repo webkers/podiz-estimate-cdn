@@ -21,6 +21,6 @@
 })(
   CAFE24API.init({
     client_id: "qCIK9Sr1CpIgo0LtWLqijA", // 사용할 앱의 App Key를 설정해 주세요.
-    version: "2023-03-01", // 적용할 버전을 설정해 주세요.
+    version: "2023-09-01", // 적용할 버전을 설정해 주세요.
   })
 );
